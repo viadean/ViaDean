@@ -176,7 +176,7 @@ accuracy, conf_matrix, class_report
 
 ```
 
-It seems like I can’t do more advanced data analysis right now. Please try again later. Let me know if you'd like me to explain the next steps conceptually or assist with other questions!
+
 
 ### :cactus:MATLAB snippet
 Let's perform a demonstration of clinical factor analysis using MATLAB. We'll simulate a dataset and apply basic statistical and machine-learning techniques to analyze it. Here’s the plan:
