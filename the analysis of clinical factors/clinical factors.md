@@ -6,6 +6,8 @@ To demonstrate the analysis of clinical factors, let’s simulate a dataset and 
 4. **Predictive modeling**: Build a logistic regression model to predict disease outcomes based on clinical features.
 5. **Visualizations**: Plot important relationships and model performance.
 
+[Clinical factor](https://viadean.notion.site/Clinical-factor-1451ae7b9a328027a379dc923b9ea969?pvs=4)
+
 Let’s begin!
 ```Python
 import pandas as pd
