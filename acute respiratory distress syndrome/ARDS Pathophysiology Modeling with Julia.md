@@ -34,8 +34,6 @@ ARDS is characterized by:
 
 - Install necessary Julia packages
 
-  :
-
   ```julia
   using Pkg
   Pkg.add(["DifferentialEquations", "Plots", "DataFrames", "ModelingToolkit", "StatsBase"])
