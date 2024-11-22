@@ -8,7 +8,9 @@ Acute Respiratory Distress Syndrome (ARDS) is a severe lung condition characteri
 2. **Gas Exchange**:
    - Modeled using the **alveolar gas equation** or diffusion laws:
      
-     $$\text{PaO}_2 = \text{FiO}_2 \times (P_B - P_{H_2O}) - \frac{\text{PaCO}_2}{R}$$
+     $$
+PaO_2=FiO_2 \times\left(P_B-P_{H_2 O}\right)-\frac{PaCO_2}{R}
+$$
      
      Where:
      - $$\text{PaO}_2$$: Arterial oxygen tension.
