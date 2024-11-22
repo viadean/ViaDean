@@ -2,7 +2,7 @@ Acute Respiratory Distress Syndrome (ARDS) is a severe lung condition characteri
 
 ### Key Components to Model:
 1. **Lung Mechanics**:
-   - **Lung Compliance ($$C_L$$)**: $$C_L = \frac{\Delta V}{\Delta P}$$, where  $$\Delta V$$ is the change in lung volume and $$ \Delta P $$ is the change in pressure.
+   - **Lung Compliance ($$C_L$$)**: $$C_L = \frac{\Delta V}{\Delta P}$$, where  $$\Delta V$$ is the change in lung volume and $$\Delta P$$ is the change in pressure.
    - Decreased compliance is a hallmark of ARDS.
 
 2. **Gas Exchange**:
