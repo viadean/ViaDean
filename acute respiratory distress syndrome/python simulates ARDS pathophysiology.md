@@ -96,10 +96,3 @@ plt.show()
 ```
 
 ---
-
-### Extending the Model:
-- **Alveolar Dynamics**: Use differential equations to model fluid accumulation and inflammatory responses.
-- **Multi-compartment Modeling**: Divide the lungs into regions with varying compliance and gas exchange efficiency.
-- **Machine Learning**: Predict ARDS outcomes using patient data with models like Random Forest or Neural Networks.
-
-This approach provides a foundation for simulating ARDS pathophysiology and testing therapeutic interventions in silico.
