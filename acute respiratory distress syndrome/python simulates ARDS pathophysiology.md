@@ -76,7 +76,7 @@ def ventilator_effects(vt, rr, peep, compliance):
 
 #### Visualization:
 Use libraries like **Matplotlib** or **Plotly** to visualize:
-- Arterial oxygen saturation (\( \text{PaO}_2\)).
+- Arterial oxygen saturation ($\text{PaO}_2$).
 - Changes in lung compliance over time.
 - Effectiveness of different ventilator strategies.
 
