@@ -8,8 +8,8 @@ Acute Respiratory Distress Syndrome (ARDS) is a severe lung condition caused by 
 
 ARDS often disrupts gas exchange in the alveoli due to edema, inflammation, and reduced compliance. A simple gas exchange model might involve:
 
-- **Oxygen Transport Dynamics**: O2 O_2 partial pressures, uptake, and arterial saturation.
-- **CO2 Exchange**: CO2CO_2 diffusion and ventilation-perfusion mismatch.
+- **Oxygen Transport Dynamics**: $O_2$ partial pressures, uptake, and arterial saturation.
+- **CO2 Exchange**: $CO_2$ diffusion and ventilation-perfusion mismatch.
 
 **MATLAB Implementation:** Define parameters like alveolar surface area, diffusion constants, and partial pressure gradients. Use differential equations to simulate gas exchange.
 
@@ -32,7 +32,9 @@ dSaO2 = @(SaO2, PaO2) 0.0031 * PaO2 - 0.003 * SaO2; % Example
 
 ### **2. Lung Mechanics**
 
-ARDS affects lung compliance (ClC_l) and resistance (RR). These parameters influence pressure-volume relationships: P=V/Cl+R⋅V˙P = V/C_l + R \cdot \dot{V}
+ARDS affects lung compliance ($C_l$) and resistance ($R$). These parameters influence pressure-volume relationships: 
+
+$P=V/Cl+R⋅V˙P = V/C_l + R \cdot \dot{V}$
 
 **Simulating Pressure-Volume Curves:** Include effects of stiff lungs and decreased surfactant.
 
