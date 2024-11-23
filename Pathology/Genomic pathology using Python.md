@@ -189,4 +189,4 @@ plt.show()
 
 ------
 
-This Python-based toolkit can help researchers and clinicians uncover insights in genomic pathology. Let me know if you’d like a detailed explanation or additional examples!
+This Python-based toolkit can help researchers and clinicians uncover insights in genomic pathology. 
