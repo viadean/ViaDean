@@ -128,4 +128,4 @@ Processing medical images like DICOM (used in CT/MRI) or TIFF (common in histolo
 - Use parallel processing libraries (e.g., OpenMP, TBB) for large image datasets.
 - Optimize memory usage by processing images in chunks when dealing with high-resolution histology slides or 3D DICOM volumes.
 
-This setup provides a robust framework for working with medical images using C++. Let me know if you need help with specific implementations!
+This setup provides a robust framework for working with medical images using C++.
