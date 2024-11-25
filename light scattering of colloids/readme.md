@@ -4,3 +4,5 @@
 ## 🎏Bilingue
 - Code snippets to Rayleigh Scattering
   - MATLAB和Python及R瑞利散射
+- Code snippets to Mie Scattering
+  ` MATLAB和Python及C++米氏散射
