@@ -13,9 +13,7 @@ Here's how you can approach Rayleigh scattering simulations in MATLAB:
 1. **Define Wavelength Range**: Choose the range of wavelengths to simulate (e.g., from 400 nm to 700 nm, which covers the visible spectrum).
 
 2. **Calculate Scattering Intensity**: Use the formula:
-   $$
-   I(\lambda) \propto \frac{1}{\lambda^4}
-   $$
+   $$I(\lambda) \propto \frac{1}{\lambda^4}$$
 
    where \( $I(\lambda)$ \) is the intensity and \( $\lambda$ \) is the wavelength.
 
