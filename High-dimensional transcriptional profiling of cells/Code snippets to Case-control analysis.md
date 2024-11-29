@@ -30,9 +30,9 @@ not_exposed_controls = 100;
 ### 2. Calculate Odds Ratio
 
 The odds ratio (OR) is a measure of the association between exposure and outcome. The formula for OR is:
-\[
-\text{OR} = \frac{(exposed\_cases \times not\_exposed\_controls)}{(not\_exposed\_cases \times exposed\_controls)}
-\]
+
+$$\text{OR} = \frac{(exposed\_cases \times not\_exposed\_controls)}{(not\_exposed\_cases \times exposed\_controls)}$$
+
 
 In MATLAB:
 
@@ -45,10 +45,10 @@ disp(['Odds Ratio: ', num2str(odds_ratio)]);
 ### 3. Calculate Confidence Intervals for the Odds Ratio
 
 To estimate a confidence interval for the odds ratio, use the following formula for a 95% confidence interval:
-$$
-\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{exposed\_cases} + \frac{1}{not\_exposed\_cases} + \frac{1}{exposed\_controls} + \frac{1}{not\_exposed\_controls}}
-$$
-where \( Z \approx 1.96 \) for a 95% confidence level.
+
+$$\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{exposed\_cases} + \frac{1}{not\_exposed\_cases} + \frac{1}{exposed\_controls} + \frac{1}{not\_exposed\_controls}}$$
+
+where $Z \approx 1.96$ for a 95% confidence level.
 
 In MATLAB:
 
@@ -177,10 +177,9 @@ print(odds_ratio_result)
 
 To compute the confidence interval manually:
 
-$$
-\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposed\_cases}} + \frac{1}{\text{not\_exposed\_cases}} + \frac{1}{\text{exposed\_controls}} + \frac{1}{\text{not\_exposed\_controls}}}
-$$
-where \( Z \approx 1.96 \) for a 95% confidence level.
+$$\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposed\_cases}} + \frac{1}{\text{not\_exposed\_cases}} + \frac{1}{\text{exposed\_controls}} + \frac{1}{\text{not\_exposed\_controls}}}$$
+
+where $Z \approx 1.96$ for a 95% confidence level.
 
 ```R
 # 95% Confidence Interval
@@ -280,10 +279,7 @@ print(data)
 
 The odds ratio (OR) measures the association between exposure and outcome. Here’s how to calculate it manually.
 
-$$
-\text{OR} = \frac{(\text{exposed\_cases} \times \text{not\_exposed\_controls})}{(\text{not\_exposed\_cases} \times \text{exposed\_controls})}
-$$
-
+$$\text{OR} = \frac{(\text{exposed\_cases} \times \text{not\_exposed\_controls})}{(\text{not\_exposed\_cases} \times \text{exposed\_controls})}$$
 
 ```python
 # Calculating the odds ratio
@@ -309,10 +305,9 @@ print(f"95% Confidence Interval: {p_value}")
 
 For a 95% confidence interval, use the formula:
 
-$$
-\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposed\_cases}} + \frac{1}{\text{not\_exposed\_cases}} + \frac{1}{\text{exposed\_controls}} + \frac{1}{\text{not\_exposed\_controls}}}
-$$
-where \( $Z \approx 1.96$ \) for a 95% confidence level.
+$$\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposed\_cases}} + \frac{1}{\text{not\_exposed\_cases}} + \frac{1}{\text{exposed\_controls}} + \frac{1}{\text{not\_exposed\_controls}}}$$
+
+where $Z \approx 1.96$ for a 95% confidence level.
 
 ```python
 import math
@@ -420,10 +415,7 @@ println(data)
 
 The odds ratio (OR) quantifies the association between exposure and outcome, and is calculated as:
 
-$$
-\text{OR} = \frac{(\text{exposed\_cases} \times \text{not\_exposed\_controls})}{(\text{not\_exposed\_cases} \times \text{exposed\_controls})}
-$$
-
+$$\text{OR} = \frac{(\text{exposed\_cases} \times \text{not\_exposed\_controls})}{(\text{not\_exposed\_cases} \times \text{exposed\_controls})}$$
 
 ```julia
 # Calculate odds ratio
@@ -435,10 +427,9 @@ println("Odds Ratio: ", odds_ratio)
 
 To calculate the 95% confidence interval for the OR, we use the formula:
 
-$$
-\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposed\_cases}} + \frac{1}{\text{not\_exposed\_cases}} + \frac{1}{\text{exposed\_controls}} + \frac{1}{\text{not\_exposed\_controls}}}
-$$
-where \( $Z \approx 1.96$ \) for a 95% confidence level.
+$$\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposed\_cases}} + \frac{1}{\text{not\_exposed\_cases}} + \frac{1}{\text{exposed\_controls}} + \frac{1}{\text{not\_exposed\_controls}}}$$
+
+where $Z \approx 1.96$ for a 95% confidence level.
 
 ```julia
 using Statistics
@@ -537,10 +528,7 @@ notExposedControls = 100
 
 The odds ratio (OR) can be calculated using the formula:
 
-$$
-\text{OR} = \frac{(\text{exposedCases} \times \text{notExposedControls})}{(\text{notExposedCases} \times \text{exposedControls})}
-$$
-
+$$\text{OR} = \frac{(\text{exposedCases} \times \text{notExposedControls})}{(\text{notExposedCases} \times \text{exposedControls})}$$
 
 ```haskell
 -- Calculate the odds ratio
@@ -555,10 +543,9 @@ main = putStrLn $ "Odds Ratio: " ++ show oddsRatio
 
 To compute a 95% confidence interval for the odds ratio, we use the formula:
 
-$$
-\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposedCases}} + \frac{1}{\text{notExposedCases}} + \frac{1}{\text{exposedControls}} + \frac{1}{\text{notExposedControls}}}
-$$
-where \( $Z \approx 1.96$ \) for a 95% confidence level. The `statistics` package can be used for this computation.
+$$\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{\text{exposedCases}} + \frac{1}{\text{notExposedCases}} + \frac{1}{\text{exposedControls}} + \frac{1}{\text{notExposedControls}}}$$
+
+where $Z \approx 1.96$ for a 95% confidence level. The `statistics` package can be used for this computation.
 
 ```haskell
 import Statistics.Distribution.Normal (normalDistr, quantile)
