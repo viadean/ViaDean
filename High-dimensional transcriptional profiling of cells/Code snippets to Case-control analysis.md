@@ -177,7 +177,7 @@ print(odds_ratio_result)
 
 To compute the confidence interval manually:
 
-
+$$\ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{exposed\_cases} + \frac{1}{not\_exposed\_cases} + \frac{1}{exposed\_controls} + \frac{1}{not\_exposed\_controls}}$$
 
 where $Z \approx 1.96$ for a 95% confidence level.
 
