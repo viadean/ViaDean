@@ -45,9 +45,9 @@ disp(['Odds Ratio: ', num2str(odds_ratio)]);
 ### 3. Calculate Confidence Intervals for the Odds Ratio
 
 To estimate a confidence interval for the odds ratio, use the following formula for a 95% confidence interval:
-\[
+$$
 \ln(\text{OR}) \pm Z \times \sqrt{\frac{1}{exposed\_cases} + \frac{1}{not\_exposed\_cases} + \frac{1}{exposed\_controls} + \frac{1}{not\_exposed\_controls}}
-\]
+$$
 where \( Z \approx 1.96 \) for a 95% confidence level.
 
 In MATLAB:
