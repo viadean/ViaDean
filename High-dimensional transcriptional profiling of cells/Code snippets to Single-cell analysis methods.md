@@ -266,7 +266,7 @@ library(Signac)
 
 These methods showcase the flexibility and power of R in handling single-cell data, making it a robust option for researchers in genomics and transcriptomics.
 
-### :cactuPython snippet
+### :cactus:Python snippet
 
 Python is a powerful language for single-cell analysis, thanks to its extensive libraries and frameworks that streamline bioinformatics workflows. Here’s an overview of single-cell analysis methods in Python, along with relevant code snippets:
 
