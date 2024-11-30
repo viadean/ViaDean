@@ -15,3 +15,5 @@
   - [R和MATLAB及Python混合效应模型](https://viadean.notion.site/R-MATLAB-Python-13a1ae7b9a3280f3a8f2c99a9dcfd387?pvs=4)
 - [Code snippets to Pseudo-time Analysis](https://viadean.notion.site/Code-snippets-to-Pseudo-time-Analysis-1381ae7b9a3280178144ca76407705df?pvs=4)
   - [MATLAB和R及Python和Julia伪时间分析](https://viadean.notion.site/MATLAB-R-Python-Julia-13a1ae7b9a3280858015f3a8ff75fefb?pvs=4)
+- [Code snippets to Latent Variable Models and Dimensionality Reduction](https://viadean.notion.site/Code-snippets-to-Latent-Variable-Models-and-Dimensionality-Reduction-1381ae7b9a328094bb62f14c08b81d02?pvs=4)
+  - [MATLAB和Python及R潜变量模型和降维](https://viadean.notion.site/MATLAB-Python-R-1381ae7b9a3280d9bb9ec9511df9a063?pvs=4)
