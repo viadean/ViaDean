@@ -13,3 +13,5 @@
   - [MATLAB和R及Python亚群差异表达分析](https://viadean.notion.site/MATLAB-R-Python-1381ae7b9a3280de8bb1d4fcc41351c4?pvs=4)
 - [Code snippets to Mixed-Effect Models](https://viadean.notion.site/Code-snippets-to-Mixed-Effect-Models-1381ae7b9a328060997ef8c9393f239d?pvs=4)
   - [R和MATLAB及Python混合效应模型](https://viadean.notion.site/R-MATLAB-Python-13a1ae7b9a3280f3a8f2c99a9dcfd387?pvs=4)
+- [Code snippets to Pseudo-time Analysis](https://viadean.notion.site/Code-snippets-to-Pseudo-time-Analysis-1381ae7b9a3280178144ca76407705df?pvs=4)
+  - [MATLAB和R及Python和Julia伪时间分析](https://viadean.notion.site/MATLAB-R-Python-Julia-13a1ae7b9a3280858015f3a8ff75fefb?pvs=4)
