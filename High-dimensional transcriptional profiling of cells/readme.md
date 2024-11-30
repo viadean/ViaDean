@@ -9,3 +9,5 @@
 - [Code snippets to Single-cell analysis methods](https://viadean.notion.site/Code-snippets-to-Single-cell-analysis-methods-1371ae7b9a328058a3c8c2612ef80cc5?pvs=4)
 - [Code snippets to Cluster and Subpopulation Identification](https://viadean.notion.site/Code-snippets-to-Cluster-and-Subpopulation-Identification-1371ae7b9a3280fbb5bed82496f24b55?pvs=4)
   - [MATLAB和Python及R聚类和亚群识别](https://viadean.notion.site/MATLAB-Python-R-1381ae7b9a3280d7a79ae476e090e796?pvs=4)
+- [Code snippets to Differential Expression Analysis in Subpopulations](https://viadean.notion.site/Code-snippet-to-Differential-Expression-Analysis-in-Subpopulations-1371ae7b9a3280a1b43ce6c5fe849d4b?pvs=4)
+  - [MATLAB和R及Python亚群差异表达分析](https://viadean.notion.site/MATLAB-R-Python-1381ae7b9a3280de8bb1d4fcc41351c4?pvs=4)
