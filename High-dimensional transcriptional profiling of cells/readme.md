@@ -12,4 +12,4 @@
 - [Code snippets to Differential Expression Analysis in Subpopulations](https://viadean.notion.site/Code-snippet-to-Differential-Expression-Analysis-in-Subpopulations-1371ae7b9a3280a1b43ce6c5fe849d4b?pvs=4)
   - [MATLAB和R及Python亚群差异表达分析](https://viadean.notion.site/MATLAB-R-Python-1381ae7b9a3280de8bb1d4fcc41351c4?pvs=4)
 - [Code snippets to Mixed-Effect Models](https://viadean.notion.site/Code-snippets-to-Mixed-Effect-Models-1381ae7b9a328060997ef8c9393f239d?pvs=4)
- - [R和MATLAB及Python混合效应模型](https://viadean.notion.site/R-MATLAB-Python-13a1ae7b9a3280f3a8f2c99a9dcfd387?pvs=4)
+  - [R和MATLAB及Python混合效应模型](https://viadean.notion.site/R-MATLAB-Python-13a1ae7b9a3280f3a8f2c99a9dcfd387?pvs=4)
