@@ -1,0 +1,2 @@
+## Neurodynamical Systems and Computation
+The integration of spatiotemporal dynamics, neural network architectures, dynamics and computation, and mathematical and theoretical models forms the foundation of a burgeoning interdisciplinary field: Neurodynamical Systems and Computational Frameworks. This synthesis bridges neuroscience, computation, and advanced mathematics to unravel the complexities of both biological and artificial systems. Below, we delve into the key categories and concepts that define this exciting area of research.
