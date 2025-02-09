@@ -4,35 +4,4 @@ Mathematical finance and computational methods form the bedrock of modern financ
 [Integrality & AI Reaasoning](https://viadean.notion.site/Mathematical-Finance-and-Computational-Methods-plus-AI-Reasoning-1941ae7b9a3280b78b34f7ba64b32740?pvs=4)
 
 #### Highlighted Percentage
-```mermaid
----
-config:
-    xyChart:
-        width: 800
-        height: 600
-    themeVariables:
-        xyChart:
-            titleColor: "#fefefe"
-            backgroundColor: "#15151a"
-            xAxisLabelColor: "#fefefe"
-            xAxisLineColor: "#fefefe"
-            yAxisLabelColor: "#fefefe"
-            yAxisTitleColor: "#fefefe"
-            yAxisLineColor: "#fefefe"
-            plotColorPalette: "#fefefe,#2894a3"
----
-xychart-beta horizontal
-    title "Mathematical Finance and Computational Methods"
-    x-axis ["Cryptocurrency and Blockchain", "Cryptography and Information Theory", 
- "Option Pricing and Stochastic Calculus", "Black-Scholes Theory", 
- "Bubbles and Market Crashes", "Fat-Tailed Distributions and Extreme Events", 
- "Quantum Finance and Physics in Economics", "Optimal Control and Macroeconomics", 
- "Regression and Hypothesis Testing", "Time Series Analysis", 
- "Market Mechanisms and Participants", "Portfolio Theory and Asset Pricing", "Risk Management and Metrics", 
- "Probability and Distributions", "Stochastic and Numerical Methods", "Linear Algebra and Optimization"]
-    y-axis "Highlighted Percentage(%)" 1 --> 25
-    bar [3, 4, 7, 3, 4, 6, 7, 4, 8, 5, 6, 5, 3, 9, 4, 4]
-    line [9, 9, 10, 10, 11, 11, 14, 14, 16, 16, 14, 14, 14, 24, 24, 24]
-
-```
-
+[![](https://mermaid.ink/img/pako:eNqNVFFP2zAQ_iuW0aRNSiQKLYM-TCoFxKR162i1hxEeLo6bWHXsyHa2BsR_39lOacseIJGl2Pnuu7vvzvdEmS44HdM0TTPFtFqJcpwpgs-mm1ZgXL_zz19RuGpMzo-Pd2cVF2XlxuRse-gqXvNfYATkkts96__5Alw4yadaajMmGT1acf9m9BCUA1uXRreq2CEHI3zhNXIz2Qj7DXIu3-KMSKHedN69mzIgl-9JqHuv80ZqFzBzkNw5vgdNjk7OL4Zw6k1C9TYd8wKnOXdAKm3Eo1YOZF8WHxYaz8AXCJxgIMmNUKAYJ6AKMtV10zr8oRX-mXFX6cJuw9mkgAGT-4xOTdc4zVpjuGJdsLyUmq3RtVAZTcgWUhpoqgj4qlba1IGaLCuuTReACrE_mnA6N4IJVQb0AukrsBghmYJkrWxt5L2U2AbpglUaG-s10WWb-34LDDMwa-7I1ICteG98Ay5dgpC8IFfCOiPy1nuOBtcbZ7BryfUfrpx94fzZgnJtfSDTvOqsYJYIRa7xuugaN9GDT6VG6aaoutGyj4QZzQ9wnviOl4Zb6zP3qNuu0VgViwovOSauysi4FBjTghuBeU2wKuh5x9EnOeMolhK2jpnMsQFQyga2edC5Nm6lpdC9YgE2sRZte9Uj7k7YNcaroEQllIvhcxRqL-650TnkQgoXaQ6UjDR71fOI722N8bP9jvIo3_pgyESWPDcQkEE-8Ri6JKMPse-62HcZvcUpI_2kwfrNuWEYIQb68cOnjJIBSdMv5GQUTXLkvT9NyDAhnxMSP87CN36cJ2QUtqPw6yIcDntnEoMi9xfheHDcr0G_hv0669dwt05e1gNNKOZbgyhwpD552oyGgZhRf3MLrJm_Us-Ig9bpRacYHTvT8oS2TQGOXwnAi1PT8QqkxVNeCKfNLM7oMKoTisX9rfUOg4OxrPrd8z-TNtQL?type=png)](https://mermaid.live/edit#pako:eNqNVFFP2zAQ_iuW0aRNSiQKLYM-TCoFxKR162i1hxEeLo6bWHXsyHa2BsR_39lOacseIJGl2Pnuu7vvzvdEmS44HdM0TTPFtFqJcpwpgs-mm1ZgXL_zz19RuGpMzo-Pd2cVF2XlxuRse-gqXvNfYATkkts96__5Alw4yadaajMmGT1acf9m9BCUA1uXRreq2CEHI3zhNXIz2Qj7DXIu3-KMSKHedN69mzIgl-9JqHuv80ZqFzBzkNw5vgdNjk7OL4Zw6k1C9TYd8wKnOXdAKm3Eo1YOZF8WHxYaz8AXCJxgIMmNUKAYJ6AKMtV10zr8oRX-mXFX6cJuw9mkgAGT-4xOTdc4zVpjuGJdsLyUmq3RtVAZTcgWUhpoqgj4qlba1IGaLCuuTReACrE_mnA6N4IJVQb0AukrsBghmYJkrWxt5L2U2AbpglUaG-s10WWb-34LDDMwa-7I1ICteG98Ay5dgpC8IFfCOiPy1nuOBtcbZ7BryfUfrpx94fzZgnJtfSDTvOqsYJYIRa7xuugaN9GDT6VG6aaoutGyj4QZzQ9wnviOl4Zb6zP3qNuu0VgViwovOSauysi4FBjTghuBeU2wKuh5x9EnOeMolhK2jpnMsQFQyga2edC5Nm6lpdC9YgE2sRZte9Uj7k7YNcaroEQllIvhcxRqL-650TnkQgoXaQ6UjDR71fOI722N8bP9jvIo3_pgyESWPDcQkEE-8Ri6JKMPse-62HcZvcUpI_2kwfrNuWEYIQb68cOnjJIBSdMv5GQUTXLkvT9NyDAhnxMSP87CN36cJ2QUtqPw6yIcDntnEoMi9xfheHDcr0G_hv0669dwt05e1gNNKOZbgyhwpD552oyGgZhRf3MLrJm_Us-Ig9bpRacYHTvT8oS2TQGOXwnAi1PT8QqkxVNeCKfNLM7oMKoTisX9rfUOg4OxrPrd8z-TNtQL)
