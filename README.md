@@ -1,5 +1,6 @@
 ### 🪒[Criss-Cross](https://github.com/viadean/Interdisciplinary_Perspective/tree/main/Criss-Cross)
 The criss-cross method in science often refers to the exchange or intersection of information, principles, or structures. In chemistry, it is used to balance ionic charges in compounds by crossing over the valencies of ions to determine formulas. In genetics, criss-cross inheritance describes traits passed from father to daughter and mother to son, revealing unique hereditary patterns. Similarly, in data science, criss-cross strategies ensure robust cross-validation during model training. The concept highlights interconnectedness and interdisciplinary approaches, fostering advancements across fields. This principle underscores science's essence—bridging diverse ideas to solve complex problems and unveil the universe’s intricate systems.
+[Here](https://github.com/viadean/ViaDean/blob/main/Criss-Cross/readme.md)
 ### 🧿[Eying](https://github.com/viadean/Interdisciplinary_Perspective/tree/main/Eying)
 By leveraging programming skills, researchers can effectively study and understand the complexities of technological and scientific developments. This synergy fosters innovation and enhances our ability to address real-world challenges.
 ### 🧵[Thought-Provoking](https://github.com/viadean/Interdisciplinary_Perspective/tree/main/Thought-Provoking)
