@@ -1,4 +1,17 @@
 
+# Binary Semaphores plus AI Analytics
+A semaphore is a mechanism that controls access to a shared resource by allowing tasks to block until permission is granted.  A *binary semaphore* has two states: "taken" and "given."  A task must "take" the semaphore before accessing the resource. If the semaphore is already "taken," the task blocks until it's "given" again.  Semaphores themselves don't protect the resource; protection is achieved by *protocol* – tasks agree to only access the resource if they successfully "take" the semaphore.
+
+- [🧠AI Analytics](https://viadean.notion.site/Binary-Semaphores-plus-AI-Analytics-19f1ae7b9a3280dc85eff24e2fc5c735?pvs=4)
+- [Integrality](https://viadean.notion.site/Electromechanical-Devices-19b1ae7b9a3280e0ab52ce81f198e437?pvs=4)
+
+"Taking" can have a timeout: a task can wait indefinitely, for a specific period, or fail immediately if the semaphore is unavailable.  When a task "takes" a semaphore, it "owns" it.  "Giving" a semaphore makes it available, but doesn't guarantee another task will immediately "take" it.
+
+Binary semaphores in FreeRTOS are initially created in the "taken" state.  Creation is done with `xSemaphoreCreateBinary()`, "giving" with `xSemaphoreGive()`, and "taking" with `xSemaphoreTake()`.  "Giving" can fail if the handle is invalid or the semaphore is already "given." "Taking" can fail if the handle is invalid or a timeout occurs.
+
+A demonstration using two tasks blinking LEDs shows how a semaphore acts as a mutual exclusion mechanism, ensuring only one task blinks its LED at a time. The initial "given" in the setup function is crucial; without it, both tasks would be blocked indefinitely.  The example highlights how a binary semaphore can function like a mutex, controlling access and synchronizing tasks.
+
+
 # The Power of Vandermonde Matrices plus AI Analytics
 A Vandermonde matrix is a type of matrix with terms that follow a geometric progression in each row. It is widely used in polynomial interpolation, coding theory, cryptography, and numerical analysis.
 
