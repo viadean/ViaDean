@@ -1,4 +1,11 @@
 
+# The Power of Vandermonde Matrices plus AI Analytics
+A Vandermonde matrix is a type of matrix with terms that follow a geometric progression in each row. It is widely used in polynomial interpolation, coding theory, cryptography, and numerical analysis.
+
+- [🧠AI Analytics](https://viadean.notion.site/The-Power-of-Vandermonde-Matrices-plus-AI-Analytics-19e1ae7b9a3280a79139d68dbbf5c6f4?pvs=4)
+- [Integrality](https://viadean.notion.site/Mathematics-and-Graph-Theory-17b1ae7b9a3280b29be8c7d0b6ac4c6c?pvs=4)
+
+
 # Physical constants plus AI Analytics
 Physical constants are fundamental quantities whose values are fixed in nature and do not change with time or location. They play a crucial role in our understanding of the universe and are used in various scientific fields, including physics, chemistry, and engineering.  Here are some of the most important physical constants:
 
