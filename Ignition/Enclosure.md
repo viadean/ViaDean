@@ -1,3 +1,8 @@
+# 433MHz RF Modules for Wireless Temperature Monitoring plus AI Analytics
+This article describes the design and implementation of a wireless temperature sensor system for a Nixie Bargraph Thermometer.  The system uses 433MHz radio frequency (RF) modules to transmit temperature data from an outdoor sensor to an indoor receiver connected to the thermometer.
+- [🧠AI Analytics](https://viadean.notion.site/433MHz-RF-Modules-for-Wireless-Temperature-Monitoring-plus-AI-Analytics-1a11ae7b9a328042941cdeb94c323e07?pvs=4)
+- [Integrality](https://viadean.notion.site/Electromechanical-Devices-19b1ae7b9a3280e0ab52ce81f198e437?pvs=4)
+
 # 🐌Ohm's Law to heat conduction plus AI Analytics
 The analogy between Ohm's Law and heat conduction allows us to apply the same principles and mathematical tools to understand and analyze both electrical and thermal systems. This highlights the fundamental similarities in how energy flows in different forms.
 - [🧠AI Analytics](https://viadean.notion.site/Ohm-s-Law-to-heat-conduction-plus-AI-Analytics-1a01ae7b9a328070a0c1c2d0c6cae329?pvs=4)
