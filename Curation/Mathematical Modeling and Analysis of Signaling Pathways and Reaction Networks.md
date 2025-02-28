@@ -7,7 +7,7 @@ The intricate dance of life within cells is governed by a symphony of signaling 
   - [Applied Mathematics and Statistics](https://viadean.notion.site/Applied-Mathematics-and-Statistics-1a51ae7b9a328089b257dfc0888d4fd5?pvs=4)
   - [Chemistry](https://viadean.notion.site/Chemistry-1a61ae7b9a3280619be3f06292d23a9f?pvs=4)
 
-###🗜️Highlights
+### 🗜️Highlights
 ```mermaid
 ---
 config:
