@@ -8,7 +8,7 @@ The dance of energy within a battery is a complex choreography, a delicate balan
   - [Electrical Engineering](https://viadean.notion.site/Electrical-Engineering-1a51ae7b9a3280b28420fe77e05fe5e0?pvs=4)
   - [Materials Science](https://viadean.notion.site/Materials-Science-1a51ae7b9a328019827fd2f066e82b0f?pvs=4)
  
-🗜️Highlights
+### 🗜️Highlights
 ```mermaid
 ---
 config:
