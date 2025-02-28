@@ -6,7 +6,7 @@ Gene regulatory networks (GRNs) are intricate systems, and understanding their b
   - [Applied Mathematics and Statistics](https://viadean.notion.site/Applied-Mathematics-and-Statistics-1a51ae7b9a328089b257dfc0888d4fd5?pvs=4)
   - [Biophysics](https://viadean.notion.site/Biophysics-1a61ae7b9a3280279db4d119c3921fcc?pvs=4)
  
-###🗜️Highlights
+### 🗜️Highlights
 ```mermaid
 ---
 config:
