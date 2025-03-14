@@ -2,7 +2,12 @@
 Ecological models are essential tools for understanding the complex interactions within ecosystems and the dynamics of populations. These models help researchers and practitioners simulate various biological processes, predict outcomes, and inform management strategies for conservation and resource use.
 
 - [🧠AI Reasoning](https://viadean.notion.site/Ecological-Models-plus-AI-Reasoning-1b41ae7b9a3280fd8addefb628f49ddd?pvs=4)
-
+- Integrality
+  - [Ecology](https://viadean.notion.site/Ecology-1b51ae7b9a32808ba0b1ede8013ef270?pvs=4)
+  - [Biology](https://viadean.notion.site/Biology-1a61ae7b9a3280d28f87f3cf031ab3aa?pvs=4)
+  - [Applied Mathematics and Statistics](https://viadean.notion.site/Applied-Mathematics-and-Statistics-1a51ae7b9a328089b257dfc0888d4fd5?pvs=4)
+  - [Computer Science](https://viadean.notion.site/Computer-Science-1ab1ae7b9a3280099866d76ede465518?pvs=4)
+  - [Fisheries Science](https://viadean.notion.site/Fisheries-Science-1b51ae7b9a3280889fa9f0b53e1a9e93?pvs=4)
 
 At the core of ecological modeling is the concept of population dynamics, which examines how populations of organisms change over time due to factors such as birth rates, death rates, immigration, and emigration. By categorizing population growth into density-dependent and density-independent factors, models can provide insights into how populations respond to environmental changes and resource availability.
 
