@@ -9,7 +9,8 @@ Ecological models are essential tools for understanding the complex interactions
   - [Computer Science](https://viadean.notion.site/Computer-Science-1ab1ae7b9a3280099866d76ede465518?pvs=4)
   - [Fisheries Science](https://viadean.notion.site/Fisheries-Science-1b51ae7b9a3280889fa9f0b53e1a9e93?pvs=4)
 - [Highlights](https://gist.github.com/viadean/2036744eadb13d09d20c96378e303c65)
-- Consultant
+- [Consultant](https://viadean.notion.site/Consultant-1991ae7b9a3280f29c73c2d9710c1033?pvs=4)
+
 At the core of ecological modeling is the concept of population dynamics, which examines how populations of organisms change over time due to factors such as birth rates, death rates, immigration, and emigration. By categorizing population growth into density-dependent and density-independent factors, models can provide insights into how populations respond to environmental changes and resource availability.
 
 In addition to population dynamics, ecological models explore the intricate relationships between species, including predator-prey interactions and competition. These interactions are crucial for understanding community structure and function, as they influence species diversity and ecosystem stability.
